@@ -3,7 +3,7 @@
 **Built a web application with React, Django, and PostgreSQL serving the reduced order model (ROM) of electrical conductivity.**
 
 
-<img src="https://github.com/zhangwbhi/reduced-order-model-electrical-conductivity/blob/main/images/demo.jpeg" width="600">
+<img src="https://github.com/zhangwbhi/django-react-app-ROM-electrical-conductivity/blob/main/images/demo.jpeg" width="600">
 
 
 
@@ -11,7 +11,7 @@
 <br/><br/>
 **Modelling pipeline**
 
-<img src="https://github.com/zhangwbhi/reduced-order-model-electrical-conductivity/blob/main/images/flow_chart.png" width="800">
+<img src="https://github.com/zhangwbhi/django-react-app-ROM-electrical-conductivity/blob/main/images/flow_chart.png" width="800">
 
 <br/><br/>
 ## Challenges:
